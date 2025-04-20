@@ -1,7 +1,7 @@
 # CODSOFT_L2T2
-# Quizziee 🎯 - Online Quiz Game
+# MindMash 🎯 - Online Quiz Game
 
-Welcome to **Quizziee**, a sleek and interactive web-based quiz game that tests your knowledge across multiple categories like **Sports**, **Logic**, **General Knowledge**, and **Computer Science**.
+Welcome to **MindMash**, a sleek and interactive web-based quiz game that tests your knowledge across multiple categories like **Sports**, **Logic**, **General Knowledge**, and **Computer Science**.
 
 <img src="https://img.shields.io/badge/HTML-CSS-blue?style=flat-square" alt="tech-stack-badge">  
 
@@ -30,8 +30,7 @@ This is a simple **Multiple Choice Quiz Game** built using plain HTML, CSS, and 
 
 ---
 
-## 🚀 How to Run Locally
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/2d204dd3-3332-4152-b44c-2bcce97e3842)
+![quiz-screen](https://github.com/user-attachments/assets/a734e520-da0f-4cb8-a734-5e478331acea)
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/quizziee.git
