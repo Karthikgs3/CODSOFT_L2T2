@@ -33,4 +33,5 @@ This is a simple **Multiple Choice Quiz Game** built using plain HTML, CSS, and 
 ## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/2d204dd3-3332-4152-b44c-2bcce97e3842)
 ![quiz-screen](https://github.com/user-attachments/assets/a734e520-da0f-4cb8-a734-5e478331acea)
+![result-screen](https://github.com/user-attachments/assets/859e4f27-431e-4782-81e2-08e168335fa0)
 
